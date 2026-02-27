@@ -25,10 +25,8 @@ if (!InputFile.is_open()) cout << "Такого файла не существу
 
 if (!InputFile.is_open())
 {
-
     cout << "Такого файла не существует";
     return;
-    
 }
 ---
 
