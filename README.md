@@ -54,7 +54,7 @@ cout << "Решение отсутствует";
 | i    | Index  |
 | w    | CurrentWeight |
 | dp   | MinWeight     |
-| C  | Result Weight   | 
+| C  | ResultWeight   | 
 | min_d   | MinD   |
 
 ---
