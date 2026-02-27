@@ -51,11 +51,11 @@ cout << "Решение отсутствует";
 
 | Было | Стало  |
 | ---- | ------ |
-| ci   | Ci     |
-| di   | Di     |
+| c   | WeightCi     |
+| d   | VolumeDi     |
 | i    | Index  |
-| w    | Weight |
-| dp   | Dp     |
+| w    | CurrentWeight |
+| dp   | MinWeight     |
 
 ---
 
